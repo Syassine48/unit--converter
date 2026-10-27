@@ -5,4 +5,4 @@ Theme: Unit Converter
 ## Team
 - SADIK YASSINE (@Syassine48): length, temperature and mass conversion
 
-Project status: Core structure ready, features in review.
+Project status: Core structure ready, features under development, CI coming next.
